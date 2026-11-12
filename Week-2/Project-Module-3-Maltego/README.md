@@ -16,5 +16,9 @@ To install Maltego Graph and utilize its OSINT (Open Source Intelligence) capabi
 * **Solution:** Optimized searches by only running specific transforms (Search Engine) rather than running all available transforms at once, which saved credits and provided precise results.
 
 ## 📸 Evidence & Screenshots
+
+**Showing the domain setup**
 ![Showing the domain setup](screenshots/01.JPG)
-![howing the graph with email link](screenshots/02.JPG)
+
+**Showing the graph with email link**
+![Showing the graph with email link](screenshots/02.JPG)
