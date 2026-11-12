@@ -29,9 +29,9 @@ To perform passive and active reconnaissance on the target domain `networkwalks.
 * **Solution:** The warning did not stop the execution. The scan completed successfully, extracting all required records. I noted this as a common Python dependency warning in Kali Linux.
 
 ## 📸 Evidence & Screenshots
-* `screenshots/whois1.JPG`
-* `screenshots/whois2.JPG`
-* `screenshots/whois3.JPG`
+(screenshots/whois1.JPG)
+(screenshots/whois2.JPG)
+`screenshots/whois3.JPG`
 * `screenshots/whatweb.JPG`
 * `screenshots/nslookup.JPG`
 * `screenshots/curl.JPG`
