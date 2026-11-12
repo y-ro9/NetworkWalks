@@ -53,16 +53,16 @@ Restarted the VM and the internet worked perfectly!
 ![NAT Network Setup](screenshots/01.JPG)
 
 2. Kali Linux Manual IP Configuration
-![Kali IP Config](screenshots/03.JPG)
+![Kali IP Config](screenshots/02.JPG)
 
 3. Internet Connectivity Test (Ping)
-![Ping Test](screenshots/04.JPG)
+![Ping Test](screenshots/03.JPG)
 
 4. Shared Folders Working
-![Shared Folder](screenshots/05.JPG)
+![Shared Folder](screenshots/04.JPG)
 
 5. Clean Snapshot Taken
-![Snapshot](screenshots/06.JPG)
+![Snapshot](screenshots/05.JPG)
 
 Author: Yash Raj
 
