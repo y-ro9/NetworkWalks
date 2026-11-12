@@ -1,6 +1,6 @@
 # 🛡️ Network Walks: Cyber Security & Ethical Hacking Journey
 
-Welcome to my hands-on cybersecurity lab repository! This space documents my practical labs, assignments, and projects completed during the **Network Walks Academy Cyber Security & Ethical Hacking** course.
+Welcome to my Cybersecurity and Ethical Hacking learning journey at **Networkwalks Academy**, mentored by **Waqas Karim** sir. This repository documents my hands-on labs, projects, and practical implementations week by week.
 
 ## 📂 Repository Structure
 
@@ -12,7 +12,10 @@ Here is how my learning journey is organized week by week:
 ├── 📁 Week-1/
 │   └── 📁 Project-Module-1-Lab-Setup/ (VirtualBox & Kali Linux Setup)
 │
-├── 📁 Week-2/ (Coming Soon...)
+├── 📁 Week-2/
+│   ├── 📁 Project-Module-1-Kali-Tools/
+│   ├── 📁 Project-Module-3-Maltego/
+│   └── 📁 Project-Module-5-Zenmap/
 │
 ├── 📁 Week-3/ (Coming Soon...)
 │
