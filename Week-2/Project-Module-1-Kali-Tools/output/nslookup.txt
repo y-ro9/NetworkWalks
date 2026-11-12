@@ -1,0 +1,13 @@
+                                                                                                                                                           
+┌──(cyber㉿cyber)-[~] 
+└─$ nslookup networkwalks.com 
+Server:         10.0.2.3 
+Address:        10.0.2.3#53 
+ 
+Non-authorita ve answer: 
+Name:   networkwalks.com 
+Address: 192.232.216.135 
+ 
+                                                                                                                                                           
+┌──(cyber㉿cyber)-[~] 
+└─$ 
