@@ -50,19 +50,19 @@ Restarted the VM and the internet worked perfectly!
 
 📸 Proof of Work & Screenshots
 1. VirtualBox NAT Network Settings
-https://screenshots/01.JPG
+![NAT Network Setup](screenshots/01.JPG)
 
 2. Kali Linux Manual IP Configuration
-https://screenshots/03.JPG
+![Kali IP Config](screenshots/03.JPG)
 
 3. Internet Connectivity Test (Ping)
-https://screenshots/04.JPG
+![Ping Test](screenshots/04.JPG)
 
 4. Shared Folders Working
-https://screenshots/05.JPG
+![Shared Folder](screenshots/05.JPG)
 
 5. Clean Snapshot Taken
-https://screenshots/06.JPG
+![Snapshot](screenshots/06.JPG)
 
 Author: Yash Raj
 
