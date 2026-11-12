@@ -18,4 +18,4 @@ Welcome to Week 1 of my cybersecurity journey. The primary focus of this week wa
 
 👉 *Click on the Project link above to view the full step-by-step documentation and proof of work.*
 
-https://github.com/y-ro9/NetworkWalks/edit/main/Week-1/Project-Module-1-Lab-Setup
+https://github.com/y-ro9/NetworkWalks/Week-1/Project-Module-1-Lab-Setup
